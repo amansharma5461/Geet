@@ -3,6 +3,7 @@ import React from 'react'
 import BottomNav from '../Components/BottomNav'
 
 const Allmusic = ({navigation}) => {
+  // console.log('Userrrrrrrrrrrrrr');
   return (
     <View style={styles.container}>
       <Text>All music</Text>
